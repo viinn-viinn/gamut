@@ -273,7 +273,7 @@ A scope is optional and consists of a noun describing a section of the codebase 
 
 Adding an exclamation point after your type, before the colon, will indicate that your PR contains a breaking change, and increment the major version number of the modules you changed.
 
-Examples:
+Examples
 
 `feat!: made a breaking change in the Button component`
 
